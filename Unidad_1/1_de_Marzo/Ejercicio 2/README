@@ -1,0 +1,8 @@
+Ejercicio 2.
+Crea un archivo de texto con tu nombre y adentro escribe tu editor de texto favorito.
+[Nota]
+En un instalacion de Linux formateada en [ext]
+El tamaño maximo de un nombre en un archivo es de 255 bytes es decir
+255 caracteres
+El limite de lineas en un archivo es lo que te permita tu procesador renderizar
+
